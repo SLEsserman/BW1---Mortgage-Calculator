@@ -15,6 +15,7 @@
 		259A8F0A240D5E9A00B4D06B /* Graphs.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 259A8F09240D5E9A00B4D06B /* Graphs.storyboard */; };
 		259A8F0C240D620300B4D06B /* SummaryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 259A8F0B240D620300B4D06B /* SummaryViewController.swift */; };
 		259A8F0E240D622D00B4D06B /* LoanDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 259A8F0D240D622D00B4D06B /* LoanDetailViewController.swift */; };
+		259A8F10240D740800B4D06B /* LoanData.wift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 259A8F0F240D740800B4D06B /* LoanData.wift.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		259A8F09240D5E9A00B4D06B /* Graphs.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Graphs.storyboard; sourceTree = "<group>"; };
 		259A8F0B240D620300B4D06B /* SummaryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SummaryViewController.swift; sourceTree = "<group>"; };
 		259A8F0D240D622D00B4D06B /* LoanDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoanDetailViewController.swift; sourceTree = "<group>"; };
+		259A8F0F240D740800B4D06B /* LoanData.wift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoanData.wift.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				04392C32240D410E00695665 /* AppDelegate.swift */,
 				04392C34240D410E00695665 /* SceneDelegate.swift */,
 				04392C38240D410E00695665 /* Main.storyboard */,
+				259A8F0F240D740800B4D06B /* LoanData.wift.swift */,
 				259A8F0D240D622D00B4D06B /* LoanDetailViewController.swift */,
 				259A8F0B240D620300B4D06B /* SummaryViewController.swift */,
 				259A8F09240D5E9A00B4D06B /* Graphs.storyboard */,
@@ -148,6 +151,7 @@
 				04392C33240D410E00695665 /* AppDelegate.swift in Sources */,
 				259A8F0E240D622D00B4D06B /* LoanDetailViewController.swift in Sources */,
 				04392C35240D410E00695665 /* SceneDelegate.swift in Sources */,
+				259A8F10240D740800B4D06B /* LoanData.wift.swift in Sources */,
 				259A8F0C240D620300B4D06B /* SummaryViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
